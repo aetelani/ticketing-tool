@@ -11,6 +11,8 @@ info:
 servers:
 - url: https://virtserver.swaggerhub.com/aetelani/ticketing-caravan/1.0.0
   description: SwaggerHub API Auto Mocking
+- url: /1.0.0
+  description: Local loopback
 tags:
 - name: admins
   description: Secured Admin-only calls
